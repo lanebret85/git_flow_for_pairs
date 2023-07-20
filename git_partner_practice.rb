@@ -1,1 +1,1 @@
-# Here is our pairing file. Hopefully we do this right!
+# Changing this now. Hoping we're doing this right still.
